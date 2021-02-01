@@ -1,5 +1,28 @@
 /* css stylesheet */
 
 body {
-    /* background-color: yellow; */
+    background-color: lightgrey;
+}
+
+#navDiv {
+    padding: 0;
+}
+nav {
+    margin-bottom: 1em;
+}
+
+#hero {
+    margin-top: 2em;
+    position: relative;
+}
+
+.row-two {
+    margin-top: 2em;
+}
+
+footer {
+    margin-top: 2em;
+}
+.fas, .fab {
+    color: white;
 }
